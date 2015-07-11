@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/degaslte/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/degaslte/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/degaslte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/degaslte/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
     vendor/samsung/degaslte/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/degaslte/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/degaslte/proprietary/etc/gps.conf:system/etc/gps.conf \
