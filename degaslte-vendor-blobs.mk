@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/degaslte/proprietary/lib/libvirtualdisplay.so:system/lib/libvirtualdisplay.so \
     vendor/samsung/degaslte/proprietary/vendor/lib/hw/keystore.exynos3.so:system/vendor/lib/hw/keystore.exynos3.so \
     vendor/samsung/degaslte/proprietary/bin/lpm:system/bin/lpm \
+    vendor/samsung/degaslte/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
     vendor/samsung/degaslte/proprietary/lib/libmaet.so:system/lib/libmaet.so \
     vendor/samsung/degaslte/proprietary/lib/libsxqk_skia.so:system/lib/libsxqk_skia.so \
     vendor/samsung/degaslte/proprietary/media/battery_batteryerror.qmg:system/media/battery_batteryerror.qmg \
